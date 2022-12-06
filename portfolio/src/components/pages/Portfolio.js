@@ -8,7 +8,7 @@ import image6 from'../../assets/dayplanner.png'
 
 export default function Portfolio() {
   return (
-    <div>
+    <div style={{backgroundColor: "#939da2"}}>
       <h1>Portfolio Projects</h1>
       <section id="projects" class="project-cont">
                

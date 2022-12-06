@@ -3,7 +3,7 @@ import Res from'../../assets/aResume.pdf'
 
 export default function Resume() {
   return (
-    <div>
+    <div style={{backgroundColor: "#939da2"}}>
       <h1>Resume Page</h1>
       <p>
       <a href={Res} download> Resume</a>

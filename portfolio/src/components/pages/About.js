@@ -4,7 +4,7 @@ import Avatar from'../../assets/avatar.png'
 
 export default function About() {
   return (
-    <div>
+    <div style={{backgroundColor: "#939da2"}}>
       <h1>About me</h1>
       <img src={Avatar} alt="profile" />
       <p>

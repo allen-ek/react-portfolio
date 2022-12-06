@@ -39,7 +39,7 @@ function Form() {
   };
 
   return (
-    <div>
+    <div style={{backgroundColor: "#939da2"}}>
       <h2>Contact Me</h2>
       <form className="form">
         <input
