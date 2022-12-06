@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.47ef0228.css",
-    "main.js": "/react-gh-pages/static/js/main.5c9c9d77.js",
-    "static/media/proj.png": "/react-gh-pages/static/media/proj.46f5f6260b1a195da278.png",
-    "static/media/avatar.png": "/react-gh-pages/static/media/avatar.30cad595beead0a5787e.png",
-    "static/media/aResume.pdf": "/react-gh-pages/static/media/aResume.2250f5e00809e2efbb9b.pdf",
-    "static/media/Bills.png": "/react-gh-pages/static/media/Bills.9961118b169276af40c0.png",
-    "static/media/Homr.png": "/react-gh-pages/static/media/Homr.2b8b31840bbdf9bf1652.png",
-    "static/media/dayplanner.png": "/react-gh-pages/static/media/dayplanner.ee2a648898a4a350a38d.png",
-    "static/media/teamgenerator.png": "/react-gh-pages/static/media/teamgenerator.d464c46a05b1629df651.png",
-    "static/media/notekeeper.png": "/react-gh-pages/static/media/notekeeper.6e7392d20847ae2b86f1.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.47ef0228.css.map": "/react-gh-pages/static/css/main.47ef0228.css.map",
-    "main.5c9c9d77.js.map": "/react-gh-pages/static/js/main.5c9c9d77.js.map"
+    "main.css": "/react-portfolio/static/css/main.47ef0228.css",
+    "main.js": "/react-portfolio/static/js/main.3e36271f.js",
+    "static/media/proj.png": "/react-portfolio/static/media/proj.46f5f6260b1a195da278.png",
+    "static/media/avatar.png": "/react-portfolio/static/media/avatar.30cad595beead0a5787e.png",
+    "static/media/aResume.pdf": "/react-portfolio/static/media/aResume.2250f5e00809e2efbb9b.pdf",
+    "static/media/Bills.png": "/react-portfolio/static/media/Bills.9961118b169276af40c0.png",
+    "static/media/Homr.png": "/react-portfolio/static/media/Homr.2b8b31840bbdf9bf1652.png",
+    "static/media/dayplanner.png": "/react-portfolio/static/media/dayplanner.ee2a648898a4a350a38d.png",
+    "static/media/teamgenerator.png": "/react-portfolio/static/media/teamgenerator.d464c46a05b1629df651.png",
+    "static/media/notekeeper.png": "/react-portfolio/static/media/notekeeper.6e7392d20847ae2b86f1.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.47ef0228.css.map": "/react-portfolio/static/css/main.47ef0228.css.map",
+    "main.3e36271f.js.map": "/react-portfolio/static/js/main.3e36271f.js.map"
   },
   "entrypoints": [
     "static/css/main.47ef0228.css",
-    "static/js/main.5c9c9d77.js"
+    "static/js/main.3e36271f.js"
   ]
 }
