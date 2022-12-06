@@ -27,9 +27,28 @@ function Form() {
 
   const handleFormSubmit = (e) => {
     e.preventDefault();
+    if (!setUserName(userName)) {
+      setErrorMessage(`Name is required.`);
+      setUserName('');
+    setMessage('');
+    setEmail('');
 
+      return;
+    }
     if (!validateEmail(email)) {
       setErrorMessage('Email is invalid');
+      setUserName('');
+    setMessage('');
+    setEmail('');
+
+      return;
+    }
+    if (!setMessage(message)) {
+      setErrorMessage(`Message is required.`);
+      setUserName('');
+    setMessage('');
+    setEmail('');
+
       return;
     }
     setUserName('');
