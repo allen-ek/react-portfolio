@@ -4,7 +4,7 @@
 Allen Klein
 
 - [Link to Portfolio Site](https://allen-ek.github.io/Portfolio/)
-- [Link to Github](https://github.com/allen-ek/)
+- [Link to Github](https://github.com/allen-ek/react-portfolio)
 
 # Portfolio HTML/CSS webpage
 
